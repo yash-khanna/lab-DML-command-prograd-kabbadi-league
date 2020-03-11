@@ -8,49 +8,49 @@
 ![sql](https://user-images.githubusercontent.com/58466121/76389844-3c85d400-6392-11ea-875f-8cd9676219b2.JPG)
 
 
-![2](https://user-images.githubusercontent.com/58466121/76390689-dbf79680-6393-11ea-80e8-0f13adeceda3.png)
+![1 1](https://user-images.githubusercontent.com/61002120/76394759-02213480-639c-11ea-98a2-0df042b61d34.png)
 
 
 ## STEPS TO BE FOLLOWED
 
 
-> 1. **Create table city**
+> 1. **Insert into city**
 
-> 2. **Create table referee**
+> 2. **Insert into referee**
 
-> 3. **Create table innings**
+> 3. **Insert into innings**
 
-> 4. **Create table extra_type**
+> 4. **Insert into extra_type**
 
-> 5. **Create table skill**
+> 5. **Insert into skill**
 
-> 6. **Create table team**
+> 6. **Insert into team**
 
-> 7. **Create table player**
+> 7. **Insert into player**
 
-> 8. **Create table venue**
+> 8. **Insert into venue**
 
-> 9. **Create table event**
+> 9. **Insert into event**
 
-> 10. **Create table extra_event**
+> 10. **Insert into extra_event**
 
-> 11. **Create table outcome**
+> 11. **Insert into outcome**
 
-> 12. **Create table game**
+> 12. **Insert into game**
 
-> 13. **Change column name**
+> 13. **Update player table**
 
-> 14. **Change table name**
+> 14. **Update player table**
 
-> 15. **Delete a column**
+> 15. **Update player table**
 
-> 16. **Add a new column**
+> 16. **Update player table**
 
-> 17. **Drop teble city**
+> 17. **Delete from extra_type**
 
-> 18. **Drop table innings**
+> 18. **Delete from referee**
 
-> 19. **Drop table skill**
+> 19. **Delete from player**
 
-> 20. **Drop table extra_type**
+> 20. **Delete from outcome**
 
